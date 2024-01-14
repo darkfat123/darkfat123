@@ -2,23 +2,25 @@
 <h1 align="center">Hello👋, I'm Supakorn Yookack</h1>
 <h3 align="center">I'm a Developer from Thailand</h3>
 <h3 align="center">🔴⚪🔵🔵🔴⚪</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">I am fascinated by the transformative impact computer technology has had on our lives, changes that were once unimaginable 🌐. Observing the continuous expansion of computer inspired me to pursue a degree in Computer Science. My enthusiasm for the field has grown over time. Graduating with a degree in Computer Science 👨🏻‍🎓, I not only love delving into the intricacies of coding but also thrive on generating ideas for my next project 👨🏻‍💻. My passion extends to exploring new tech stacks and leveraging them to build innovative and exciting creations. I consider myself a fast learner, always eager to embrace new challenges and opportunities in the dynamic world of technology🚀.</p>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=darkfat123&label=Profile%20views&color=0e75b6&style=flat" alt="darkfat123" /> 
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
-- 👋 Hi, I’m @darkfat123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: One of my days is spent coding and playing games.
+<p align="center">
+<img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif"  height="250px"></p>
 
+- 👋 Hi, I’m **@darkfat123**.
+- 👀 I’m interested in **New Techonologies**.
+- 🌱 I’m currently learning **Docker, Kubernetes**.
+- 💞️ Know about my experiences: **(In progress...)**.
+- 📫 How to reach me: **supakorn.yookack@gmail.com** or at the bottom of this.
+- 😄 Fun fact: **Work hard, eat harder and sleep hardest.**
+</br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="center">Tech stacks that I used to</h3>
+<h3 align="center">⚡ Tech stacks that I used to ⚡</h3>
 <h3>• Programming languages and frameworks</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,6 +51,31 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h4> Connect with me 🎊: </h4>
+  <a href="https://www.linkedin.com/in/supakorn-yookack-39a730289/">
+   <img align="left" alt="Supakorn Yookack | Linkedin" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:supakorn.yookack@gmail.com">
+    <img align="left" alt="Supakorn Yookack | Gmail" width="32px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://medium.com/@yookack_s">
+    <img align="left" alt="Supakorn Yookack | Medium" width="32px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+  </a>
+   <a href="https://www.facebook.com/supakorn.yookaek/">
+    <img align="left" alt="Supakorn Yookack | Facebook" width="32px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  </a>
+   <a href="https://github.com/darkfat123">
+    <img align="left" alt="Supakorn Yookack | Github" width="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+<br>
+</br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://media.tenor.com/_PGkN2EwyDIAAAAi/zeitersparnis-zu-sp%C3%A4t.gif" height="50px"> <em>"It’s not about better <b>time management.</b> It’s about better<b> life management."</b></em>
+<p align="right" >🛠️ Created by <a href="https://github.com/darkfat123">darkfat</a></p>
 <!---
 darkfat123/darkfat123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
