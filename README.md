@@ -24,12 +24,13 @@
 <h3>• Programming languages and frameworks</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-3670A0?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-402B3A?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ExpressJS](https://img.shields.io/badge/express.js-638889?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,7 +45,7 @@
 <h3>• Cloud Computing Service</h3>
 
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28)
 
 <h3>• Tools</h3>
 
@@ -54,6 +55,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<img align="center" src="https://media.tenor.com/_PGkN2EwyDIAAAAi/zeitersparnis-zu-sp%C3%A4t.gif" height="50px"> <em> "It’s not about better <b>time management.</b> It’s about better<b> life management."</b></em>
 <h4> Connect with me 🎊: </h4>
   <a href="https://www.linkedin.com/in/supakorn-yookack-39a730289/">
    <img align="left" alt="Supakorn Yookack | Linkedin" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
@@ -70,12 +72,9 @@
    <a href="https://github.com/darkfat123">
     <img align="left" alt="Supakorn Yookack | Github" width="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
+  <p align="right" >🛠️ Created by <a href="https://github.com/darkfat123">darkfat</a></p>
 <br>
-</br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img src="https://media.tenor.com/_PGkN2EwyDIAAAAi/zeitersparnis-zu-sp%C3%A4t.gif" height="50px"> <em>"It’s not about better <b>time management.</b> It’s about better<b> life management."</b></em>
-<p align="right" >🛠️ Created by <a href="https://github.com/darkfat123">darkfat</a></p>
 <!---
 darkfat123/darkfat123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
