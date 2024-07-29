@@ -55,6 +55,9 @@
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=yellow)
+![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=jenkins&logoColor=red)
+![DBeaver](https://img.shields.io/badge/DBeaver-068DA9?style=for-the-badge&logo=dbeaver&logoColor=ECF8F9)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
