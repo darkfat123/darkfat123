@@ -2,7 +2,7 @@
 <h1 align="center">Hello👋, I'm Supakorn Yookack</h1>
 <h3 align="center">I'm a Developer from Thailand</h3>
 <h3 align="center">🔴⚪🔵🔵🔴⚪</h3>
-<p align="center">I am fascinated by the transformative impact computer technology has had on our lives, changes that were once unimaginable 🌐. Observing the continuous expansion of computer inspired me to pursue a degree in Computer Science. My enthusiasm for the field has grown over time. Graduating with a degree in Computer Science 👨🏻‍🎓, I not only love delving into the intricacies of coding but also thrive on generating ideas for my next project 👨🏻‍💻. My passion extends to exploring new tech stacks and leveraging them to build innovative and exciting creations. I consider myself a fast learner, always eager to embrace new challenges and opportunities in the dynamic world of technology🚀.</p>
+<p align="center">I'm a Full-Stack Developer in the banking industry, fascinated by the transformative impact of computer technology 🌐. With a degree in Computer Science 👨🏻‍🎓, I love coding and constantly generate new project ideas. I'm passionate about exploring new tech stacks and building innovative creations. As a fast learner, I'm always eager to embrace new challenges and opportunities in the tech world 🚀.</p>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=darkfat123&label=Profile%20views&color=0e75b6&style=flat" alt="darkfat123" /> 
 </p>
