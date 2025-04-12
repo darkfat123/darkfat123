@@ -11,7 +11,7 @@
 
 - 👋 Hi, I’m **@darkfat123**.
 - 👀 I’m interested in **New Techonologies**.
-- 🌱 I’m currently learning **Docker, Kubernetes**.
+- 🌱 I’m currently learning **Redis, Kafka, Kubernetes**.
 - 💞️ Know about my experiences: **Full-Stack Developer in Banking Industry**.
 - 📫 How to reach me: **supakorn.yookack@gmail.com** or at the bottom of this.
 - 😄 Fun fact: **Work hard, eat harder and sleep hardest.**
