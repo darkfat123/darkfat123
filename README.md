@@ -11,7 +11,7 @@
 
 - 👋 Hi, I’m **@darkfat123**.
 - 👀 I’m interested in **New Techonologies**.
-- 🌱 I’m currently learning **Redis, Kafka, Kubernetes**.
+- 🌱 I’m currently learning **Docker, Redis, Kafka, Kubernetes**.
 - 💞️ Know about my experiences: **Full-Stack Developer in Banking Industry**.
 - 📫 How to reach me: **supakorn.yookack@gmail.com** or at the bottom of this.
 - 😄 Fun fact: **Work hard, eat harder and sleep hardest.**
@@ -56,6 +56,7 @@
 ![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=yellow)
 ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=jenkins&logoColor=red)
 ![DBeaver](https://img.shields.io/badge/DBeaver-068DA9?style=for-the-badge&logo=dbeaver&logoColor=ECF8F9)
+![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
