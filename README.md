@@ -30,12 +30,10 @@
 ![Gin](https://img.shields.io/badge/Gin-102E50?style=for-the-badge&logo=gin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ExpressJS](https://img.shields.io/badge/express.js-638889?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-grey?style=for-the-badge&logo=bootstrap)
 ![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 <h3>• Databases</h3>
@@ -45,8 +43,9 @@
 
 <h3>• Cloud Computing Service</h3>
 
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-red?style=for-the-badge&logo=firebase&logoColor=ffca28)
+![Firebase](https://img.shields.io/badge/Render-white?style=for-the-badge&logo=render&logoColor=purple)
 
 <h3>• Tools</h3>
 
