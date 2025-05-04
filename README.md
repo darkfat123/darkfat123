@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello👋, I'm Supakorn Yookack</h2>
-<p align="center">I'm a Full-Stack Developer in the banking industry, fascinated by the transformative impact of computer technology 🌐. With a degree in Computer Science 👨🏻‍🎓, I love coding and constantly generate new project ideas. I'm passionate about exploring new tech stacks and building innovative creations 🚀.</p>
+<p align="center">I'm a Full-Stack Developer in the banking industry, fascinated by the transformative impact of computer technology 🌐. Enjoy coding and come up with new project ideas all the time 🚀.</p>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=darkfat123&label=Profile%20views&color=0e75b6&style=flat" alt="darkfat123" /> 
 </p>
@@ -60,7 +60,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img align="center" src="https://media.tenor.com/_PGkN2EwyDIAAAAi/zeitersparnis-zu-sp%C3%A4t.gif" height="50px"> <em> "It’s not about better <b>time management.</b> It’s about better<b> life management."</b></em>
 <h4> Connect with me 🎊: </h4>
   <a href="https://www.linkedin.com/in/supakorn-yookack-39a730289/">
    <img align="left" alt="Supakorn Yookack | Linkedin" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
@@ -70,9 +69,6 @@
   </a>
   <a href="https://medium.com/@yookack_s">
     <img align="left" alt="Supakorn Yookack | Medium" width="32px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
-  </a>
-   <a href="https://www.facebook.com/supakorn.yookaek/">
-    <img align="left" alt="Supakorn Yookack | Facebook" width="32px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
    <a href="https://github.com/darkfat123">
     <img align="left" alt="Supakorn Yookack | Github" width="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
